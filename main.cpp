@@ -51,7 +51,7 @@ void printAllPokemons( Pokemon pokemones[ CANTIDADPOKEMONES ], int tam );
 int main()
 {
     std::cout << "-----------------------------------------------------------------------------------------------------------------------" << std::endl;
-    std::cout << std::setw(65) << "Taller 3 Punto 1" << std::endl;
+    std::cout << std::setw(65) << "Sistema de Gestión de Pokémons" << std::endl;
     std::cout << "-----------------------------------------------------------------------------------------------------------------------" << std::endl;
 
     bool menuCerrado = false;
